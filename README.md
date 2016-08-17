@@ -14,3 +14,11 @@ Top-level Domains Database，互联网顶级域数据库
 3. `.com.cn` 是域名后缀(通用顶级域 + 国家顶级域)
 4. `.co.kr` 是域名后缀(通用顶级域 + 国家顶级域)
 5. `.com.ph` 是域名后缀(通用顶级域 + 国家顶级域)
+
+
+## 文件结构说明
+
+* allinone.txt：所有互联网顶级域数据
+* country-code.txt：仅包括`国家代码`顶级域数据
+* generic.txt：仅包括`通用`顶级域数据
+* test.txt：仅包括`测试`顶级域数据
