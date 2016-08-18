@@ -18,8 +18,12 @@ Top-level Domains Database，互联网顶级域数据库
 
 ## 文件结构说明
 
-* allinone.txt：所有互联网顶级域数据
-* country-code.txt：仅包括`国家代码`顶级域数据
-* generic.txt：仅包括`通用`顶级域数据
-* test.txt：仅包括`测试`顶级域数据
-* country-code-dns-name.txt：仅包括国际化国家代码顶级域的DNS名称
+顶级域：
+* top_level_domains_all.txt：所有互联网顶级域数据
+* tlds_country-code.txt：仅包括`国家代码`顶级域数据
+* tlds_generic.txt：仅包括`通用`顶级域数据
+* tlds_test.txt：仅包括`测试`顶级域数据
+
+DNS名称：
+* dns_name_all.txt：所有国际化顶级域的DNS名称
+* dns_name_country-code.txt：仅包括国际化国家代码顶级域的DNS名称
