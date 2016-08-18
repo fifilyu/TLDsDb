@@ -1356,7 +1356,7 @@
 .ভাৰত,country-code
 .ভারত,country-code
 .八卦,generic
-‏.موقع‎,generic
+.موقع,generic
 .বাংলা,country-code
 .公益,generic
 .公司,generic

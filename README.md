@@ -22,8 +22,12 @@ Top-level Domains Database，互联网顶级域数据库
 * top_level_domains_all.txt：所有互联网顶级域数据
 * tlds_country-code.txt：仅包括`国家代码`顶级域数据
 * tlds_generic.txt：仅包括`通用`顶级域数据
+* tlds_infrastructure.txt：仅包括`基础设施`顶级域数据
+* tlds_sponsored.txt：仅包括`品牌`顶级域数据
 * tlds_test.txt：仅包括`测试`顶级域数据
 
 DNS名称：
 * dns_name_all.txt：所有国际化顶级域的DNS名称
-* dns_name_country-code.txt：仅包括国际化国家代码顶级域的DNS名称
+* dns_name_country-code.txt：仅包括国际化`国家代码`顶级域的DNS名称
+* dns_name_generic.txt：仅包括国际化`通用`顶级域的DNS名称
+* dns_name_test.txt：仅包括国际化`测试`顶级域的DNS名称
